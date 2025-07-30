@@ -23,4 +23,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Kernels_a14
-        path: kernel_build/ExynosUnbound*
+        path: kernel_build/gkibase*
